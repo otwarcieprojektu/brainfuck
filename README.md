@@ -1,4 +1,4 @@
-# Zadanie 3 - język brainfuck
+# Zadanie 3 - język Brainfuck
 
 Napisz w tym miejscu program (napisany w języku Brainfuck), który wypisze Twoje imię. 
 
